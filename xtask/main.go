@@ -7,20 +7,20 @@ import (
 )
 
 func Setup() error {
-	fmt.Println("setup")
+	fmt.Println("setup task")
 	//return exec.Command("go", "install", "<some_tool>").Run()
 	return nil
 }
 
 func Hello() error {
-	fmt.Println("Hello world!")
+	fmt.Println("Hello task!")
 	return nil
 }
 
 func Help() error {
 	fmt.Println("Tasks:")
-	fmt.Println("    setup - environment setup")
-	fmt.Println("    hello - hello task")
+	fmt.Println("  setup - environment setup")
+	fmt.Println("  hello - hello task")
 	return nil
 }
 
