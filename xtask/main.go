@@ -20,6 +20,7 @@ func Hello() error {
 func Help() error {
 	fmt.Println("Tasks:")
 	fmt.Println("    setup - environment setup")
+	fmt.Println("    hello - hello task")
 	return nil
 }
 
