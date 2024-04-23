@@ -9,7 +9,7 @@ go run xtask/main.go hello
 
 # Standard tasks
 
-* `--help`: list all available tasks
+* `--help`: list all available tasks, and format is `name - description`
 
 # Tools & Libraries
 
