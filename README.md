@@ -9,6 +9,7 @@ go run xtask/main.go hello
 
 # Tools & Libraries
 
+* Command Line - Awesome Go: https://awesome-go.com/command-line/
 
 # References
 
