@@ -27,4 +27,5 @@ Tasks:
 
 # References
 
+* Use task.go for your Go project scripts: https://dev.to/jcbhmr/use-taskgo-for-your-go-project-scripts-2cm4
 * cargo xtask: https://github.com/matklad/cargo-xtask
